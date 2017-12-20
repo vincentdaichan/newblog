@@ -1,0 +1,11 @@
+# basic options This is a comment, will be ignored
+title: My Blog
+author: Some guy
+email: your-email@domain.com
+description: the hottest new blog
+twitter_username: jekyllrb
+github_username:  vincentdaichan
+
+# Build settings
+markdown: kramdown
+theme: minima
